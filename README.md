@@ -1,5 +1,8 @@
 # Jogo da Memória dos Animais - SMDA Saquarema (FLIS)
 
+> 🎮 **Link de Produção para Jogar:**  
+> 👉 **[https://jogo-smda-flis-2026.netlify.app/](https://jogo-smda-flis-2026.netlify.app/)**
+
 Aplicação interativa desenvolvida em **SolidJS**, **TypeScript** e **Vite**, projetada e otimizada sob medida para telas touch gigantes de 72 polegadas (**Samsung Flip 4K**) da **Secretaria Municipal dos Direitos dos Animais de Saquarema (SMDA)** para a **Festa Literária de Saquarema (FLIS)**.
 
 ---
