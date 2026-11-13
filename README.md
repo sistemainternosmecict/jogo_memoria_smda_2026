@@ -3,7 +3,7 @@
 > 🎮 **Link de Produção para Jogar:**  
 > 👉 **[https://jogo-smda-flis-2026.netlify.app/](https://jogo-smda-flis-2026.netlify.app/)**
 
-Aplicação interativa desenvolvida em **SolidJS**, **TypeScript** e **Vite**, projetada e otimizada sob medida para telas touch gigantes de 72 polegadas (**Samsung Flip 4K**) da **Secretaria Municipal dos Direitos dos Animais de Saquarema (SMDA)** para a **Festa Literária de Saquarema (FLIS)**.
+Aplicação interativa desenvolvida em **SolidJS**, **TypeScript** e **Vite**, projetada e otimizada sob medida para telas touch gigantes de 72 polegadas (**Samsung Flip 4K**) da **Secretaria Municipal dos Direitos dos Animais de Saquarema (SMDA)** para a **Feira Literária de Saquarema (FLIS)**.
 
 ---
 
@@ -157,4 +157,4 @@ jogo-memoria-smda-2026/
 
 - **Secretaria Municipal dos Direitos dos Animais de Saquarema (SMDA)**
 - **Prefeitura Municipal de Saquarema**
-- **FLIS - Festa Literária de Saquarema 2026**
+- **FLIS - Feira Literária de Saquarema 2026**
